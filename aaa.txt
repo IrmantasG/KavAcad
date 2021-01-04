@@ -1,4 +1,5 @@
 <<<<<<< HEAD
 Tekstas pirmas
 Klaidinga eilute
-Pataisytos revertinimo klaidos
+=======
+>>>>>>> parent of 943c47c... Pirma eilute aaa faile
