@@ -1,9 +1,2 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 Tekstas pirmas
 Klaidinga eilute
-=======
->>>>>>> parent of 943c47c... Pirma eilute aaa faile
-=======
-Tekstas pirmas
->>>>>>> parent of 7388a71... Klaidinga antra eilute aaa faile
