@@ -1,4 +1,4 @@
-Tekstas pirmas
+Tekstas antra(GHpatikslinimas)
 New line from GitHUb
 Klaidinga eilute
 Line added from PC
